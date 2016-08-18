@@ -1,6 +1,6 @@
 name: Proba2
 favicon: null
-layout_spectrum: 0.0524789672344923
+layout_spectrum: 1
 typography_spectrum: 0.3517659972421825
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.26282263291068375
-  lightness: 0.6941853279713541
-  saturation: 0.19809524924494326
-  rhythmicContrast: 0.7464601495303214
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
